@@ -18,3 +18,10 @@ This repository contains the code of the React application called ToDo-App. I've
 
 - React Js
 
+**This project contains Three GitHub repositories**
+
+➡️ [App Code] ()
+
+➡️ [Terraform code] (https://github.com/imran99744/App-tf-code)
+
+➡️ [Manifest Repo] (https://github.com/imran99744/kube-manifest)
