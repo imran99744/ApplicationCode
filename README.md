@@ -7,11 +7,11 @@ This repository contains the documentation and source code for a hands-on projec
 ## Project Overview
 In this project, I've created a complete workflow for deploying a web application on Kubernetes using GitOps practices with ArgoCD. Here's a high-level overview of the project:
 
-1. Dockerized Web Application: The web application source code is containerized using Docker, ensuring portability and consistency.
-2. Kubernetes Cluster Provisioning: We provision a Kubernetes cluster on AWS Elastic Kubernetes Service (EKS) using Terraform. The infrastructure is defined as code, making it easy to manage and scale.
-3. CI/CD with ArgoCD: We set up a CI/CD pipeline using ArgoCD. Changes to the application code trigger automatic deployments, ensuring a smooth and efficient development process.
-4. Security Measures: Security best practices are implemented throughout the project, including network policies, RBAC, and secrets management.
-5. Best Practices: The project adheres to Kubernetes and GitOps best practices, promoting reliability, scalability, and maintainability.
+- Dockerized Web Application: The web application source code is containerized using Docker, ensuring portability and consistency.
+- Kubernetes Cluster Provisioning: We provision a Kubernetes cluster on AWS Elastic Kubernetes Service (EKS) using Terraform. The infrastructure is defined as code, making it easy to manage and scale.
+- CI/CD with ArgoCD: We set up a CI/CD pipeline using ArgoCD. Changes to the application code trigger automatic deployments, ensuring a smooth and efficient development process.
+- Security Measures: Security best practices are implemented throughout the project, including network policies, RBAC, and secrets management.
+- Best Practices: The project adheres to Kubernetes and GitOps best practices, promoting reliability, scalability, and maintainability.
 
 ## Architecture
 ![Architecture Diagram](https://cdn-images-1.medium.com/max/800/1*T5IRoSoiqT8qnYLUprsRUQ.png)
